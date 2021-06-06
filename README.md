@@ -1,5 +1,7 @@
 # CDK FOR TERRAFORM SAMPLE
 
+BLOG: [CDK for TerraformがGoをサポートしたので試してみた](https://44smkn.hatenadiary.com/entry/2021/06/06/183113)
+
 ## Reference
 
 * [Announcing CDK for Terraform 0.4](https://www.hashicorp.com/blog/announcing-cdk-for-terraform-0-4)
